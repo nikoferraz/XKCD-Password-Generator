@@ -10,7 +10,7 @@ error_reporting(E_ALL|E_STRICT);
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-  <link rel="stylesheet" href="../p1/css/style.css">
+  <link rel="stylesheet" href="css/style.css">
   <meta id="viewport" name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1.0"/>
   <?php set_include_path(dirname(__FILE__)."/../");
 require 'logic.php'; ?>

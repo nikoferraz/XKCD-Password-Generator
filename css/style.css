@@ -1,0 +1,59 @@
+div > img{
+  height: 400px;
+}
+body{
+  height: 90%;
+  background-color: #F8F8F8;
+}
+#mainBody{
+  margin-left: 1.5em;
+  margin-right: 1.5em;
+  margin-bottom: 5em;
+}
+
+nav{
+  background-color: #000000;
+  float:left;
+  width: 100%;
+  text-align: center;
+  clear: none; 
+  font-size: 3em;
+  height: 1.5em;
+}
+.navbar .nav{
+  float:none;
+  display:inline-block;
+}
+
+.navbar-nav li{
+  font-size: .75em;
+}
+
+.jumbotron{
+  width: 100%;
+  text-align: center;
+}
+
+#picture{
+  background-image: url("../shattered.png");
+  width: 100%;
+  text-align: center;
+  padding-top: 3.5em;
+  padding-bottom: 1em;
+}
+
+h1{
+  color:#009999;
+}
+h3{
+  color: #00CCCC;
+}
+
+#password{
+  color:#1919BA;
+}
+
+.inputBox{
+  display: inline;
+}
+
