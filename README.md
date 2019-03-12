@@ -1,6 +1,4 @@
 # XKCD Style Password Generator
-## Live URL
-<http://www.nicholasferraz.me/p2/> 
 
 ## Description
 A password generator inspired in the XKCD comics
@@ -16,3 +14,7 @@ number, and whether to make the first letter of each word uppercase.
 - The password is generated using an array containing 58,111 words 
 - The user can choose a range of option -- described above. 
 - Same template for front-end as with p1 
+
+## Running
+
+Download and run XAMPP or MAMP and add this project folder to htdocs.
