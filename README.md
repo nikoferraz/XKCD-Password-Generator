@@ -5,8 +5,6 @@
 
 <http://p2.nicholasferraz.me>
 
-NOTE: I've succeeded following the standard URL format for p1, however I've had some trouble with p2, which I am currently attempting to fix
-
 ## VIDEO DEMO 
 <http://screencast.com/t/xO06hh2X0MKz?> 
 
